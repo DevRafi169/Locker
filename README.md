@@ -1,4 +1,5 @@
 # Link Locker
+![Locker Illustration](lock.png)
 
 Simple and secure link management website.
 
