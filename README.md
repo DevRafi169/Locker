@@ -11,7 +11,7 @@ Simple and secure link management website.
 
 ## How to Use
 
-1. Visit [locker169.netlify.app](https://www.locker169.netlify.app).
+1. Visit [locker169.netlify.app](https://locker169.netlify.app).
 2. Enter your URL which you want to Encrypt
 3. Add a strong password 
 4. Click on "Lock The URL" button
